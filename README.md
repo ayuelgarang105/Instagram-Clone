@@ -4,7 +4,7 @@ Author:[Gabriel Ayuel](https://github.com/ayuelgarang105)
   
 # Description  
 
-This is a clone of the website for the Instagram app where users share their  images and ideas for other users to view them.Users can Sign in to the application,Upload pictures to the application,See their profile with all their pictures.[View Site](https://evening-wildwood-32640.herokuapp.com/)
+This is a clone of the website for the Instagram app where users share their  images and ideas for other users to view them.Users can Sign in to the application,Upload pictures to the application,See their profile with all their pictures.
 
 
 ## User Story  
@@ -56,9 +56,9 @@ source virtual/bin/activate
 #### Setting up environment variables
 Create a `.env` file and paste paste the following filling where appropriate:
 ```
-SECRET_KEY='rdtfyguihjohucbdsjnc'
+SECRET_KEY='**'
 DEBUG=True
-DB_NAME='gallery'
+DB_NAME='****'
 DB_USER='<your database name>'
 DB_PASSWORD='<password to your database>'
 DB_HOST='127.0.0.1'
